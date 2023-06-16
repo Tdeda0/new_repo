@@ -1,1 +1,2 @@
 this is a demo test file for merging purposes
+this is an new line
